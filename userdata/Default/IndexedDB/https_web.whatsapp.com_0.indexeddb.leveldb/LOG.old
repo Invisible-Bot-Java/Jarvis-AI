@@ -1,0 +1,37 @@
+2023/03/07-17:44:27.305 46f8 Reusing MANIFEST D:\All Mess\AI Jarvis Using Python Tut\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/07-17:44:27.306 46f8 Recovering log #46
+2023/03/07-17:44:27.315 46f8 Reusing old log D:\All Mess\AI Jarvis Using Python Tut\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000046.log 
+2023/03/07-17:44:27.316 46f8 Delete type=2 #45
+2023/03/07-17:44:28.009 202c Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/07-17:44:28.014 202c Level-0 table #51: started
+2023/03/07-17:44:28.019 202c Level-0 table #51: 57716 bytes OK
+2023/03/07-17:44:28.021 202c Delete type=0 #46
+2023/03/07-17:44:28.022 46f8 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 25981 : 1
+2023/03/07-17:44:28.022 46f8 Compacting 1@0 + 1@1 files
+2023/03/07-17:44:28.031 46f8 Generated table #52@0: 3962 keys, 37839 bytes
+2023/03/07-17:44:28.031 46f8 Compacted 1@0 + 1@1 files => 37839 bytes
+2023/03/07-17:44:28.032 46f8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/07-17:44:28.033 46f8 Delete type=2 #51
+2023/03/07-17:44:28.033 46f8 Manual compaction at level-0 from '\x00\x19.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 25981 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/07-17:44:28.035 46f8 Level-0 table #54: started
+2023/03/07-17:44:28.037 46f8 Level-0 table #54: 507 bytes OK
+2023/03/07-17:44:28.039 46f8 Delete type=2 #48
+2023/03/07-17:44:28.039 46f8 Delete type=0 #50
+2023/03/07-17:44:28.040 46f8 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x02\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 27021 : 0
+2023/03/07-17:44:28.040 46f8 Compacting 1@0 + 1@1 files
+2023/03/07-17:44:28.046 46f8 Generated table #55@0: 3937 keys, 37033 bytes
+2023/03/07-17:44:28.046 46f8 Compacted 1@0 + 1@1 files => 37033 bytes
+2023/03/07-17:44:28.047 46f8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/07-17:44:28.048 46f8 Delete type=2 #54
+2023/03/07-17:44:28.048 46f8 Manual compaction at level-0 from '\x00\x17\x02\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 27021 : 0 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/07-17:44:28.102 46f8 Level-0 table #57: started
+2023/03/07-17:44:28.104 46f8 Level-0 table #57: 3756 bytes OK
+2023/03/07-17:44:28.106 46f8 Delete type=2 #52
+2023/03/07-17:44:28.106 46f8 Delete type=0 #53
+2023/03/07-17:44:28.107 46f8 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x06 \x03\x00\x00\x00\x00\x00\x80V@\x00\x01\x0b\x00I\x00d\x00T\x00t\x00l\x009\x000\x00D\x00a\x00y\x00s' @ 27295 : 0
+2023/03/07-17:44:28.107 46f8 Compacting 1@0 + 1@1 files
+2023/03/07-17:44:28.116 46f8 Generated table #58@0: 3681 keys, 30993 bytes
+2023/03/07-17:44:28.116 46f8 Compacted 1@0 + 1@1 files => 30993 bytes
+2023/03/07-17:44:28.117 46f8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/07-17:44:28.117 46f8 Delete type=2 #57
+2023/03/07-17:44:28.118 46f8 Manual compaction at level-0 from '\x00\x16\x06 \x03\x00\x00\x00\x00\x00\x80V@\x00\x01\x0b\x00I\x00d\x00T\x00t\x00l\x009\x000\x00D\x00a\x00y\x00s' @ 27295 : 0 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
