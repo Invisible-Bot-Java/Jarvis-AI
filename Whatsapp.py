@@ -24,9 +24,9 @@ driver.maximize_window()
 driver.get("https://web.whatsapp.com/")
 Speak("Initializing The Whatsapp Software.")
 
-ListWeb = {'dhruv' : "+917011024588",
-            'dost': "+91",
-            "pote": '+91'}
+ListWeb = {'AI' : "<MOBILE_NUMBER>",
+            'AI2': "<MOBILE_NUMBER>",
+            "AI3": '<MOBILE_NUMBER>'}
 
 def WhatsappSender(Name):
     Speak(f"Preparing To Send a Message To {Name}")
